@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-e1d8u/static/css/main.be573e4b.chunk.css",
-    "main.js": "https://.github.io/csb-e1d8u/static/js/main.8acf9ccc.chunk.js",
-    "main.js.map": "https://.github.io/csb-e1d8u/static/js/main.8acf9ccc.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-e1d8u/static/js/runtime-main.d603ee97.js",
-    "runtime-main.js.map": "https://.github.io/csb-e1d8u/static/js/runtime-main.d603ee97.js.map",
-    "static/js/2.750f401d.chunk.js": "https://.github.io/csb-e1d8u/static/js/2.750f401d.chunk.js",
-    "static/js/2.750f401d.chunk.js.map": "https://.github.io/csb-e1d8u/static/js/2.750f401d.chunk.js.map",
-    "static/js/3.c5064c24.chunk.js": "https://.github.io/csb-e1d8u/static/js/3.c5064c24.chunk.js",
-    "static/js/3.c5064c24.chunk.js.map": "https://.github.io/csb-e1d8u/static/js/3.c5064c24.chunk.js.map",
-    "index.html": "https://.github.io/csb-e1d8u/index.html",
-    "static/css/main.be573e4b.chunk.css.map": "https://.github.io/csb-e1d8u/static/css/main.be573e4b.chunk.css.map",
-    "static/js/2.750f401d.chunk.js.LICENSE.txt": "https://.github.io/csb-e1d8u/static/js/2.750f401d.chunk.js.LICENSE.txt"
+    "main.css": "https://jeremyjamesl.github.io/csb-e1d8u/static/css/main.be573e4b.chunk.css",
+    "main.js": "https://jeremyjamesl.github.io/csb-e1d8u/static/js/main.8acf9ccc.chunk.js",
+    "main.js.map": "https://jeremyjamesl.github.io/csb-e1d8u/static/js/main.8acf9ccc.chunk.js.map",
+    "runtime-main.js": "https://jeremyjamesl.github.io/csb-e1d8u/static/js/runtime-main.f6cbf9fb.js",
+    "runtime-main.js.map": "https://jeremyjamesl.github.io/csb-e1d8u/static/js/runtime-main.f6cbf9fb.js.map",
+    "static/js/2.e6096c0c.chunk.js": "https://jeremyjamesl.github.io/csb-e1d8u/static/js/2.e6096c0c.chunk.js",
+    "static/js/2.e6096c0c.chunk.js.map": "https://jeremyjamesl.github.io/csb-e1d8u/static/js/2.e6096c0c.chunk.js.map",
+    "static/js/3.c5064c24.chunk.js": "https://jeremyjamesl.github.io/csb-e1d8u/static/js/3.c5064c24.chunk.js",
+    "static/js/3.c5064c24.chunk.js.map": "https://jeremyjamesl.github.io/csb-e1d8u/static/js/3.c5064c24.chunk.js.map",
+    "index.html": "https://jeremyjamesl.github.io/csb-e1d8u/index.html",
+    "static/css/main.be573e4b.chunk.css.map": "https://jeremyjamesl.github.io/csb-e1d8u/static/css/main.be573e4b.chunk.css.map",
+    "static/js/2.e6096c0c.chunk.js.LICENSE.txt": "https://jeremyjamesl.github.io/csb-e1d8u/static/js/2.e6096c0c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d603ee97.js",
-    "static/js/2.750f401d.chunk.js",
+    "static/js/runtime-main.f6cbf9fb.js",
+    "static/js/2.e6096c0c.chunk.js",
     "static/css/main.be573e4b.chunk.css",
     "static/js/main.8acf9ccc.chunk.js"
   ]
